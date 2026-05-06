@@ -1,0 +1,1 @@
+# stremio-plugin-theme
